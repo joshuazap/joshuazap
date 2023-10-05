@@ -34,11 +34,12 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 **📄 Know more about me:** [www.joshuazapata.com](http://www.joshuazapata.com) | [LinkedIn](https://www.linkedin.com/in/joshuazapata)
 
 ---
-- 🔭 I’m currently working on Rails Applications, API design, and other frontend and backend development at 10drils, Inc!
-- 🌱 I’m currently learning, or would like to expand my knowledge, of 
-- 👯 I’m looking to collaborate on, or...
-- 🤔 I’m looking for help with, or...
-- 💬 Ask me about ... any of the following technologies and tools!
+
+- 🔭 I’m currently working on Rails Applications, API design, and other frontend and backend development at 10drils, Inc.
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with complex algorithms.
+- 💬 Ask me about any of the following technologies and tools!
 
 #### 🛠️ Technologies and Tools
 ##### Frameworks
@@ -56,18 +57,12 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 ##### Collaboration & Document Management
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white), ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat&logo=indeed&logoColor=white), ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white), ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white), ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white), ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=flat&logo=dependabot&logoColor=white), ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=flat&logo=google%20assistant&logoColor=white), ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white), ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white), ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white), ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white), ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)
 
-
----
-
 #### 🌟 Achievements
 
-🚀 Took the lead in creating a super-smooth process to match clients with the right lawyers. Saved the company both time and money!
-
-🛠️ Rolled out some killer platforms and apps, all while keeping an eye on SEO and making sure they work like a charm.
-
-📊 Got everyone on board with monitoring best practices, so now we're all about those data-driven decisions.
-
-👨‍🏫 Love sharing knowledge—helping junior devs level up their game.
+- 🚀 Took the lead in creating a super-smooth process to match clients with the right lawyers. Saved the company both time and money!
+- 🛠️ Rolled out some killer platforms and apps, all while keeping an eye on SEO and making sure they work like a charm.
+- 📊 Got everyone on board with monitoring best practices, so now we're all about those data-driven decisions.
+- 👨‍🏫 Love sharing knowledge—helping junior devs level up their game.
 
 ---
 
@@ -76,21 +71,3 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 - [Portfolio](http://www.joshuazapata.com)
 - [LinkedIn](https://www.linkedin.com/in/joshuazapata)
 - [Resume](http://www.joshuazapata.com/resume)
-
-<!--
----
-
-#### 🔗 Quick Links
-
-- [Portfolio](http://www.joshuazapata.com)
-- [LinkedIn](https://www.linkedin.com/in/joshuazapata)
-- [Resume](http://www.joshuazapata.com/resume)
-
----
-
-#### 📚 Continuous Learning
-
-- Full Stack Software Development Apprenticeship from Bloc.io
-- B.S. in Industrial Organizational Psychology from the University of California, Berkeley
-- Philosophy studies, Chaffey College
--->
