@@ -21,7 +21,7 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 
 ---
 
-**🔭 Current Position:** Senior Software Engineer at 10drils, Inc.
+**🔭 Current Position:** Senior Software Engineer at BoxedUp, Inc.
 
 **🌱 Learning:** Always ready to absorb new technologies and methodologies to stay current in the fast-evolving tech landscape.
 
