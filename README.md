@@ -35,7 +35,7 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 
 ---
 
-- 🔭 I’m currently working on Rails Applications, API design, and other frontend and backend development at 10drils, Inc.
+- 🔭 I’m currently working on Ruby/Rails, APIs, microservices, and other frontend and backend development at BoxedUp, Inc.
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with complex algorithms.
