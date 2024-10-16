@@ -45,7 +45,7 @@ With over 15 years of experience, I specialize in building scalable, user-focuse
 
 ---
 
-- 🔭 I’m currently working on Ruby/Rails, APIs, microservices, and other frontend and backend development at BoxedUp, Inc.
+- 🔭 I’m currently working on Ruby/Rails, APIs, microservices, and other frontend and backend development at Fluxx Labs (San Francisco).
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with complex algorithms.
@@ -61,7 +61,7 @@ With over 15 years of experience, I specialize in building scalable, user-focuse
 ##### Dev
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ##### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)  ![RSpec](https://img.shields.io/badge/RSpec](https://img.shields.io/badge/RSpec)) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ##### CI/CD and Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)  ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white)
 ##### Collaboration & Document Management
