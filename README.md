@@ -21,7 +21,7 @@ I'm a Senior Full-Stack Engineer - Passionate about transforming ideas into amaz
 
 ---
 
-**🔭 Current Position:** Senior Software Engineer at BoxedUp, Inc.
+**🔭 Current Position:** Senior Software Engineer at Fluxx Labs (San Francisco).
 
 **🌱 Learning:** Always ready to absorb new technologies and methodologies to stay current in the fast-evolving tech landscape.
 
