@@ -23,7 +23,7 @@ With over 15 years of experience, I specialize in building scalable, user-focuse
 
 ---
 
-**🔭 Current Position:** Senior Software Engineer at Fluxx Labs (San Francisco).
+**🔭 Current Position:** Senior Software Engineer working remotely for the US State of Kansas Department of Commerce.
 
 **🌱 Lifelong Learner:** Continuously expanding my skillset with new programming languages, frameworks, and methodologies to stay at the cutting edge of software development.
 
@@ -45,7 +45,7 @@ With over 15 years of experience, I specialize in building scalable, user-focuse
 
 ---
 
-- 🔭 I’m currently working on Ruby/Rails, APIs, microservices, and other frontend and backend development at Fluxx Labs (San Francisco).
+- 🔭 I’m currently working on Ruby/Rails, APIs, microservices, and other frontend and backend development for the US State of Kansas Department of Commerce.
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with complex algorithms.
