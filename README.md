@@ -43,7 +43,7 @@ I ship Rails, TypeScript, and React. 15+ years in production. I like messy repos
 
 **📫 Reach me at:** [joshuazap@gmail.com](mailto:joshuazap@gmail.com)
 
-**📄 Know more about me:** [LinkedIn](https://www.linkedin.com/in/joshuazapata) · [joshuazapata.com](https://joshuazapata.com)
+**📄 Know more about me:** [LinkedIn](https://www.linkedin.com/in/joshuazapata) · [Zapata's Studio](https://www.zapatas.org)
 
 ---
 
